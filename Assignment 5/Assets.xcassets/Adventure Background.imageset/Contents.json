@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "dark-eerie-forest-iphone-ch9ngrx1rssa1oeu.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "dark-eerie-forest-iphone-ch9ngrx1rssa1oeu@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "dark-eerie-forest-iphone-ch9ngrx1rssa1oeu@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
